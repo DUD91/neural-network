@@ -28,4 +28,4 @@ outputs = [
         inputs[3] * weights3[3] + bias3,
 ]
 
-print(f"Outputs: {outputs}")
+print(f"Output of Neuron 1 to 3: {outputs}")
